@@ -13,10 +13,10 @@ The A* algorithm is used to find the shortest path between a start node and a go
 
 ## Usage
 
-1. **Point Robot A* Implementation**:
+1. ### Point Robot A* Implementation:
    - Navigate to the `PointRobot` folder.
    - Use the provided source code according to the local readme file
 
-2. **TurtleBot3 A* Implementation**:
+2. ### TurtleBot3 A* Implementation:
    - Access the `TurtleBot3` folder.
    - Use the provided source code according to the local readme file
