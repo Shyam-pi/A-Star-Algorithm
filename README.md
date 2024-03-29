@@ -1,6 +1,6 @@
 # A* Algorithm Implementations for Point and Mobile Robots
 
-This repository contains implementations of the A* algorithm for both point and mobile robots. A* is a widely-used pathfinding algorithm in robotics and artificial intelligence for finding the shortest path between two points on a graph.
+This repository contains implementations of the A* algorithm for both mobile point robot and TurtleBot3.
 
 ## Introduction
 
@@ -11,8 +11,8 @@ The A* algorithm is used to find the shortest path between a start node and a go
 
 ## Folder Structure
 
-- **/PointRobot**: Contains the implementation of the A* algorithm for point robots.
-- **/TurtleBot3**: Contains the implementation of the A* algorithm customized for TurtleBot3.
+- **/PointRobot**: Contains the implementation of the A* algorithm for point robots using 'Up-Down-Left-Right' action space.
+- **/TurtleBot3**: Contains the implementation of the A* algorithm customized for TurtleBot3 using wheel velocity action space.
 
 ## Usage
 
