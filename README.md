@@ -30,5 +30,5 @@ The A* algorithm is used to find the shortest path between a start node and a go
    - https://github.com/Shyam-pi/A-Star-Path-Planning/blob/main/PointRobot/ASTAR_VIDEO.mp4
 
 3. ### TurtleBot3 A* Implementation:
-   - 2D case : https://youtu.be/KwPj-r8nOog
+   - 2D case : https://youtu.be/7MUNlsAgnrA
    - Gazebo case : https://youtu.be/KwPj-r8nOog
