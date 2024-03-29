@@ -20,3 +20,12 @@ The A* algorithm is used to find the shortest path between a start node and a go
 2. ### TurtleBot3 A* Implementation:
    - Access the `TurtleBot3` folder.
    - Use the provided source code according to the local readme file
+  
+## Results
+
+1. ### Point Robot A* Implementation:
+   - https://github.com/Shyam-pi/A-Star-Path-Planning/blob/main/PointRobot/ASTAR_VIDEO.mp4
+
+3. ### TurtleBot3 A* Implementation:
+   - 2D case : https://youtu.be/KwPj-r8nOog
+   - Gazebo case : https://youtu.be/KwPj-r8nOog
