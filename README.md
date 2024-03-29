@@ -11,8 +11,8 @@ The A* algorithm is used to find the shortest path between a start node and a go
 
 ## Folder Structure
 
-- **/PointRobot**: Contains the implementation of the A* algorithm for point robots using 'Up-Down-Left-Right' action space.
-- **/TurtleBot3**: Contains the implementation of the A* algorithm customized for TurtleBot3 using wheel velocity action space.
+- **/PointRobot**: Contains the implementation of the A* algorithm for point robots.
+- **/TurtleBot3**: Contains the implementation of the A* algorithm customized for TurtleBot3.
 
 ## Usage
 
