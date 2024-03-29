@@ -2,6 +2,8 @@
 
 This repository contains implementations of the A* algorithm for both mobile point robot and TurtleBot3.
 
+**Note:** This project was done in collaboration with <a href='https://github.com/vedran97'>Vedant Ranade</a> and <a href='https://github.com/SakshamV'>Saksham Verma</a>.
+
 ## Introduction
 
 The A* algorithm is used to find the shortest path between a start node and a goal node on a graph. It is commonly used in robotics for path planning tasks. This repository provides implementations of the A* algorithm for both point and mobile robots.
