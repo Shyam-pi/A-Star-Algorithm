@@ -1,4 +1,4 @@
-**A* Algorithm Implementation for TurtleBot3 Path Planning**
+** A* Algorithm Implementation for TurtleBot3 Path Planning **
 
 **Introduction:**
 This project implements the A* algorithm for path planning of TurtleBot3. The A* algorithm is a widely-used pathfinding algorithm in robotics and artificial intelligence, capable of finding the shortest path between two points on a graph.
