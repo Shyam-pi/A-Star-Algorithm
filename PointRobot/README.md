@@ -1,4 +1,4 @@
-### A* Algorithm Implementation for Point Robot Path Planning**
+# A* Algorithm Implementation for Point Robot Path Planning**
 
 **Introduction:**
 This project implements the A* algorithm for path planning of a point robot. The A* algorithm is a widely-used pathfinding algorithm in robotics and artificial intelligence, capable of finding the shortest path between two points on a graph.
