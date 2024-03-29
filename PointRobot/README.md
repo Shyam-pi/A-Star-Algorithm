@@ -30,7 +30,7 @@ This project implements the A* algorithm for path planning of a point robot. The
    - Defines functions to represent various types of obstacles, including rectangles, hexagons, and triangles.
    - Checks the feasibility of nodes in the obstacle space.
 
-3. **A* Algorithm Execution:**
+3. **A-Star Algorithm Execution:**
    - Implements the A* algorithm for path planning, considering the start and goal states.
    - Tracks closed nodes, open nodes, and node visits during the search process.
    - Implements backtracking to find the optimal path.
