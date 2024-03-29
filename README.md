@@ -1,7 +1,3 @@
-Certainly! Below is a template for a detailed GitHub README file for your repository containing implementations of A* algorithm for both point and mobile robots:
-
----
-
 # A* Algorithm Implementations for Point and Mobile Robots
 
 This repository contains implementations of the A* algorithm for both point and mobile robots. A* is a widely-used pathfinding algorithm in robotics and artificial intelligence for finding the shortest path between two points on a graph.
