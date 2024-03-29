@@ -6,6 +6,9 @@ This repository contains implementations of the A* algorithm for both point and 
 
 The A* algorithm is used to find the shortest path between a start node and a goal node on a graph. It is commonly used in robotics for path planning tasks. This repository provides implementations of the A* algorithm for both point and mobile robots.
 
+![image](https://github.com/Shyam-pi/A-Star-Path-Planning/assets/57116285/a7ee7138-6ba3-4533-91c6-38961e916659)
+
+
 ## Folder Structure
 
 - **/PointRobot**: Contains the implementation of the A* algorithm for point robots.
